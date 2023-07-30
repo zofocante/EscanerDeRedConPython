@@ -11,7 +11,7 @@ while True:
 3) Un HOST en especifico
 4) Salir de la ejecución
 
-[1/2/3/4] Opción: """)
+Opción [1/2/3/4] : """)
     
     # DATO ENTEGRADO POR EL PROGRAMA
     if usuario == "1":
